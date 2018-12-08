@@ -1,0 +1,11 @@
+[
+    {
+        "caption": "Preferences: LocalSubl Settings",
+        "command": "edit_settings",
+        "args":
+        {
+            "base_file": "${packages}/LocalSubl/local_subl.sublime-settings",
+            "default": "{\n\t$0\n}\n"
+        }
+    }
+]
